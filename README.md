@@ -1,4 +1,4 @@
-#Python File Handling – Product Data Management
+# Python File Handling – Product Data Management
 
 Developed a Python-based file handling project to manage product information and sales data using CSV, JSON, and TXT files.
 
